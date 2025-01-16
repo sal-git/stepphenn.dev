@@ -1,3 +1,8 @@
++++
+title = "stepphenn.dev"
+description = "Stephen's Tech Blog."
++++
+
 # 👋 Hi, I'm Stephen
 
 ## About Me

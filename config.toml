@@ -19,7 +19,7 @@ lazy_async_image = true
 
 [extra]
 # Put all your custom variables here
-favicon = "favicon.ico"
+favicon = "favicon-32x32.png"
 
 author = "stepphenn"
 display_author = true

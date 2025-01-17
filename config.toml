@@ -9,6 +9,9 @@ theme = "anemone"
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
+taxonomies = [
+    {name = "tags", feed = true},
+]
 
 [markdown]
 highlight_code = true
@@ -20,9 +23,12 @@ lazy_async_image = true
 [extra]
 # Put all your custom variables here
 favicon = "favicon-32x32.png"
-
+default_card_image = "favicon-32x32.png"
 author = "stepphenn"
 display_author = true
+toc = true
+list_pages = true
+default_theme = "light"
 
 header_nav = [
   { url = "/", name_en = "/home/" },

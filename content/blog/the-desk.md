@@ -1,5 +1,5 @@
 +++
-title = "The Desk"
+title = "The Desk -- WIP"
 date = 2025-01-16
 description = "Journey for the perfect workspace."
 
@@ -10,8 +10,7 @@ comment = true
 tags = ["desk", "setup", "minimalist"]
 +++
 
-{{ img(id="", alt="Edawrd Hopper", caption="Edward Hopper", height="1712", width="992")}}
-{{ img(id="", alt="Edawrd Hopper", caption="Edward Hopper", height="1712", width="992")}}
+{{ img(id="https://github.com/sal-git/stepphenn.dev/blob/main/static/edward_hopper_arch.png?raw=true", alt="Edawrd Hopper - Office in a Small City", caption="Edward Hopper - Office in a Small City", height="1712", width="992")}}
 
 My life has largely revolved around a desk. From my school years through college, and now in my professional life, this piece of furniture has been my constant companion. Recently, this realization hit home when I took on a project in my attic. What I thought would be a quick few hours turned into multiple weekends of contorting myself like a monkey, carefully avoiding the insulation. That first day had me thinking, "Maybe I should switch careers - this is incredible!" But as time wore on, reality set in.Perhaps I can't wax poetic about desk work, but I've come to appreciate that the grass isn't always greener elsewhere. 
 
